@@ -36,7 +36,11 @@
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
+O demandante Pizza-Express tem perdido 30% da venda para seu conconrrente devido ao problema com a logística da entrega.
+-> Entrada da ordem de serviço -> Processamento do pedido->preparação do pedido-> Entrega(30mins)
+
+Com patrocino da empresa Papa-léguas Delivery, o objetivo é : lojas de pizza sem espaço de varejo , o qual deverá ser localizada mais próximo do cliente, receber a ordem da central, processar e entregar a ordem dentro de 10 ou 15 minutos da entrada do pedido.
+
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
