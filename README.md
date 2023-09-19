@@ -21,7 +21,7 @@ A seguir, os passos para a preparação do projeto:
 
 # Projeto: *SmartSlice*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *Teen Titans*
 
 # Descrição
 
