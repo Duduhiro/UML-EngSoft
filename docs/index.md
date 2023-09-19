@@ -6,10 +6,6 @@
 *&lt;Nome do Projeto&gt;*
 </center></font>
 
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
-
 **Conteúdo**
 
 - [Autores](#autores)
@@ -43,7 +39,13 @@ Com patrocino da empresa Papa-léguas Delivery, o objetivo é : lojas de pizza s
 
 
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+
+·       Sistema 1 (central)
+o   Requisito funcionais: Receber a ordem de pedidos; Processar o pedido(analisar localização do cliente), distribuir pedidos para lojas;
+o   Requisito não funcionais: estável; Seguro;
+·       Sistema 2 (local)
+o   Requisitos funcionais: receber pedido da central; Suportar comunicação entre loja e Cliente ;
+o   Requisito não funcionais: estável; Seguro;
 
 # Diagrama de casos de uso
 
