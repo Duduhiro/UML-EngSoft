@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;SmartSlice&gt;*
+**SmartSlice**
 </center></font>
 
 **Conteúdo**
