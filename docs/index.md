@@ -49,11 +49,14 @@ o   Requisito não funcionais: estável; Seguro;
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+
 
 # Descrição dos casos de uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+![](https://imgur.com/Wi0OP0s.png)
+![](https://imgur.com/9RR1D0w.png)
+![](https://imgur.com/0UcTTu4.png) 
+![](https://imgur.com/b7QWes7.png)
 
 # Diagrama de sequencia
 
