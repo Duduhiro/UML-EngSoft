@@ -53,14 +53,14 @@ Requisito não funcionais: estável; Seguro;
 
 # Descrição dos casos de uso
 
-![](https://imgur.com/Wi0OP0s.png)
-![](https://imgur.com/9RR1D0w.png)
-![](https://imgur.com/0UcTTu4.png) 
+![](https://imgur.com/Wi0OP0s.png)<br>
+![](https://imgur.com/9RR1D0w.png)<br>
+![](https://imgur.com/0UcTTu4.png)<br>
 ![](https://imgur.com/b7QWes7.png)
 
 # Diagrama de sequencia
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![](https://imgur.com/lr5pfTY.png)
 
 # Diagrama de classes
 
