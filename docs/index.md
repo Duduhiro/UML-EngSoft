@@ -49,7 +49,7 @@ o   Requisito não funcionais: estável; Seguro;
 
 # Diagrama de casos de uso
 
-
+![](https://imgur.com/qdl8z3i.png)
 
 # Descrição dos casos de uso
 
