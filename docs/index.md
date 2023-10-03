@@ -40,12 +40,12 @@ Com patrocino da empresa Papa-léguas Delivery, o objetivo é : lojas de pizza s
 
 # Análise de requisitos funcionais e não-funcionais
 
-·       Sistema 1 (central)
-o   Requisito funcionais: Receber a ordem de pedidos; Processar o pedido(analisar localização do cliente), distribuir pedidos para lojas;
-o   Requisito não funcionais: estável; Seguro;
-·       Sistema 2 (local)
-o   Requisitos funcionais: receber pedido da central; Suportar comunicação entre loja e Cliente ;
-o   Requisito não funcionais: estável; Seguro;
+·       Sistema 1 (central)<br>
+Requisito funcionais: Receber a ordem de pedidos; Processar o pedido(analisar localização do cliente), distribuir pedidos para lojas;<br>
+Requisito não funcionais: estável; Seguro;<br>
+·       Sistema 2 (local)<br>
+Requisitos funcionais: receber pedido da central; Suportar comunicação entre loja e Cliente ;<br>
+Requisito não funcionais: estável; Seguro;
 
 # Diagrama de casos de uso
 
