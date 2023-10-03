@@ -3,12 +3,8 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+**SmartSlice**
 </center></font>
-
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
 
 **Conteúdo**
 
@@ -36,22 +32,35 @@
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
+O demandante Pizza-Express tem perdido 30% da venda para seu conconrrente devido ao problema com a logística da entrega.
+-> Entrada da ordem de serviço -> Processamento do pedido->preparação do pedido-> Entrega(30mins)
+
+Com patrocino da empresa Papa-léguas Delivery, o objetivo é : lojas de pizza sem espaço de varejo , o qual deverá ser localizada mais próximo do cliente, receber a ordem da central, processar e entregar a ordem dentro de 10 ou 15 minutos da entrada do pedido.
+
 
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+
+·       Sistema 1 (central)<br>
+Requisito funcionais: Receber a ordem de pedidos; Processar o pedido(analisar localização do cliente), distribuir pedidos para lojas;<br>
+Requisito não funcionais: estável; Seguro;<br>
+·       Sistema 2 (local)<br>
+Requisitos funcionais: receber pedido da central; Suportar comunicação entre loja e Cliente ;<br>
+Requisito não funcionais: estável; Seguro;
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![](https://imgur.com/qdl8z3i.png)
 
 # Descrição dos casos de uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+![](https://imgur.com/Wi0OP0s.png)<br>
+![](https://imgur.com/9RR1D0w.png)<br>
+![](https://imgur.com/0UcTTu4.png)<br>
+![](https://imgur.com/b7QWes7.png)
 
 # Diagrama de sequencia
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![](https://imgur.com/lr5pfTY.png)
 
 # Diagrama de classes
 
