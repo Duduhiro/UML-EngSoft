@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;SmartSlice&gt;*
 </center></font>
 
 **Conteúdo**
