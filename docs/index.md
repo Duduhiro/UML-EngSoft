@@ -99,5 +99,5 @@ Implementação de um sistema de backup regular para garantir a recuperação r�
 
 # Diagrama de implantação
 
-![](https://imgur.com/nL3H3VM.png]
+![](https://imgur.com/nL3H3VM.png)
 
