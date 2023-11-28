@@ -99,8 +99,5 @@ Implementação de um sistema de backup regular para garantir a recuperação r�
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![](https://imgur.com/nL3H3VM.png]
 
-# Referências
-
-*&lt;Lista de referências&gt;*
