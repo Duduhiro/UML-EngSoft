@@ -64,20 +64,40 @@ Requisito não funcionais: estável; Seguro;
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![](https://imgur.com/HJC0IDg.png)
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+![](https://imgur.com/S0OILaw.png)
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+1. Sistema de Software para Atendimento do Pedido e Localização da Fábrica de Pizzas:<br>
+a. Central de Pedidos:
+Uma aplicação web responsiva para receber pedidos de clientes.
+Backend para gerenciar pedidos, processar pagamentos e integrar com o sistema de localização.
+Banco de dados para armazenar informações do cliente, histórico de pedidos e preferências.<br>
+b. Sistema de Localização:
+Uso de API de geolocalização para identificar a localização do cliente em tempo real.
+Integração com mapas para determinar a loja mais próxima com base na localização do cliente.
+
+2. Sistema de Software para Suportar Operações da Fábrica de Pizzas:<br>
+a. Gestão de Pedidos e Produção:
+Um sistema de gestão de pedidos para receber pedidos da central.
+Integração com o sistema de produção para iniciar a preparação da pizza assim que o pedido é confirmado.<br>
+b. Rastreamento de Inventário:
+Sistema para rastrear o inventário de ingredientes em tempo real.
+Alertas automáticos para reabastecimento de ingredientes.<br>
+c. Integração com Entrega:
+Integração com o sistema de entrega para garantir que a pizza esteja pronta quando o entregador chegar.
+Rastreamento da localização do entregador para coordenar a entrega.<br>
+d. Monitoramento e Análise:
+Ferramentas para monitorar o desempenho das operações, tempos de preparação e entrega.
+Capacidade de análise de dados para identificar áreas de melhoria.<br>
+e. Backup e Recuperação:
+Implementação de um sistema de backup regular para garantir a recuperação rápida em caso de falhas no sistema.
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![](https://imgur.com/nL3H3VM.png]
 
-# Referências
-
-*&lt;Lista de referências&gt;*
