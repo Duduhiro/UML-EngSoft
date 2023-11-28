@@ -64,11 +64,11 @@ Requisito não funcionais: estável; Seguro;
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![](https://imgur.com/HJC0IDg.png)
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+![](https://imgur.com/S0OILaw.png)
 
 # Decisões de arquitetura
 
